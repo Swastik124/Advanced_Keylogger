@@ -1,0 +1,8 @@
+Clipboard Data: 
+currentTime > stoppingTime
+Clipboard Data: 
+currentTime > stoppingTime
+Clipboard could not be copied: Specified clipboard format is not available
+Clipboard could not be copied: Specified clipboard format is not available
+Clipboard could not be copied: Specified clipboard format is not available
+Clipboard could not be copied: Specified clipboard format is not available
