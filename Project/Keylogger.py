@@ -39,10 +39,10 @@ clipboard_information_e="e_clipboard.txt"
 microphone_time=10
 time_iteration=15
 number_of_iterations_end=3
-key="XSXYuAiGDHxtY1saJK0lUWrM2PtpjUSrY3GCWJWbF-c="
-email_address="forprojects124@gmail.com"
-password="kqqe wqlc etzm zhbr"
-toaddr="forprojects124@gmail.com"
+key="XSXYuAiGDHxtY1saJK0lUWrM2PtpjUSrY3GCXXXXXX-c="
+email_address="forprojectsXXX@gmail.com"
+password="kqqe XXXX XXXX"
+toaddr="forpojectsXXX@gmail.com"
 file_path="D:\\Study\\CyberSecurity\\Advanced Keylogger\\Project"
 extend="\\"
 file_merge = file_path + extend
