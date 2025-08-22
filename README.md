@@ -70,10 +70,5 @@ This project is strictly for educational purposes and ethical cybersecurity rese
 
 ---
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## Contact
-For questions or collaboration opportunities, feel free to reach out via GitHub or email at `forprojects124@gmail.com`.
+For questions or collaboration opportunities, feel free to reach out via GitHub or email at `swastikmohanty124@gmail.com`.
